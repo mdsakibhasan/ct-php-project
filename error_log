@@ -1,0 +1,10 @@
+[20-Aug-2016 12:08:30 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'catagory_image' in 'field list'' in /home/sakibme/public_html/ct-php-project/admin_add_products.php:162
+Stack trace:
+#0 /home/sakibme/public_html/ct-php-project/admin_add_products.php(162): PDO->query('INSERT INTO pro...')
+#1 {main}
+  thrown in /home/sakibme/public_html/ct-php-project/admin_add_products.php on line 162
+[20-Aug-2016 12:10:39 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'catagory_image' in 'field list'' in /home/sakibme/public_html/ct-php-project/admin_add_products.php:162
+Stack trace:
+#0 /home/sakibme/public_html/ct-php-project/admin_add_products.php(162): PDO->query('INSERT INTO pro...')
+#1 {main}
+  thrown in /home/sakibme/public_html/ct-php-project/admin_add_products.php on line 162

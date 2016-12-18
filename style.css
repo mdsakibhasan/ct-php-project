@@ -1,0 +1,43 @@
+*{
+	background: #f3f4f4;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+.header{
+	width: 100%;
+	margin: 0 auto;
+}
+.header a{
+	
+}
+.menu{
+	width: 100%;
+	margin: 0 auto;
+}
+.carousel-indicators{
+	background-color: transparent;
+}
+.carousel-control{
+	background-color: transparent;
+}
+.carousel-control 
+.glyphicon-chevron-left,
+.carousel-control .icon-prev,
+.glyphicon-chevron-right,
+.carousel-control .icon-next  {
+    left: 50%;
+    margin-left: -10px;
+    background: transparent;
+}
+.foot{
+	width: 100%;
+}
+.porduct-section{
+
+}
+.thumbnail img:hover{
+	opacity: 0.4;
+}
+.table-section{
+	background: skyblue;
+}
